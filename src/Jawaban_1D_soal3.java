@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Jawaban_1D_soal3 {
-    static int kudus = 9;
+
 
     public static Scanner inputuser= new Scanner(System.in);
 
